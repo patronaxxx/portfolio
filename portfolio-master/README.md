@@ -1,1 +1,0 @@
-This is a one-page portfolio website. Open index.html in any browser. Built on Bootstrap.
